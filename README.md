@@ -22,5 +22,5 @@ This is a web-based application for managing online exam timetables, built using
 ## 🧑‍💻 Contributors
 | Name | GitHub Profile | Contribution |
 |------|----------------|--------------|
-| Mubamman | [@mubamman](https://github.com/mubammani) | Added `student.php` for student management |
-| Leader’s Name | [@leader](https://github.com/amteekay) | Project setup and management |
+| Mubammani | [@mubammani](https://github.com/mubammani) | Added `student.php` for student management |
+| Leader | [@Amteekay](https://github.com/amteekay) | Project setup and management |
